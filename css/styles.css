@@ -316,6 +316,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
   padding: 4.7rem 3rem;
 }
 
@@ -353,7 +354,7 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background: url(../images/top-background-image.png);
-    padding: 7rem 3rem;
+    padding: 0 3rem;
   }
 
   .block-hero__header > p,
