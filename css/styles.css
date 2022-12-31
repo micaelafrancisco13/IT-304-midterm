@@ -335,10 +335,6 @@ a {
   font-weight: 700;
   margin-bottom: 2.6rem;
 }
-/* 
-.block-hero__header + p {
-  margin-bottom: 3.7rem;
-} */
 
 @media screen and (min-width: 800px) {
   .block-hero__heading {
@@ -350,10 +346,10 @@ a {
 
 @media screen and (min-width: 1024px) {
   .block-hero {
+    background: url(../images/top-background-image.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background: url(../images/top-background-image.png);
     padding: 0 3rem;
   }
 
